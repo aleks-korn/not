@@ -22,6 +22,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         table.delegate = self
         table.dataSource = self
         title = ""
+        print("test")
     }
     
     
