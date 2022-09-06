@@ -17,4 +17,9 @@ class DoSomeThing{
     }
     
     
+    func newF(){
+        print("new one")
+    }
+    
+    
 }

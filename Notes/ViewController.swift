@@ -24,6 +24,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         title = ""
         let some = DoSomeThing()
         print(some.getSomThing(txt: "!!!"))
+        
+        some.newF()
     }
     
     
