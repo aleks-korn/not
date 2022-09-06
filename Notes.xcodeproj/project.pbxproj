@@ -18,6 +18,7 @@
 		01473A742840FD0B00993D13 /* NotesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01473A732840FD0B00993D13 /* NotesUITestsLaunchTests.swift */; };
 		01473A872841071D00993D13 /* NoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01473A862841071D00993D13 /* NoteViewController.swift */; };
 		01473A89284108B800993D13 /* EntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01473A88284108B800993D13 /* EntryViewController.swift */; };
+		01C56A5428C740DA00AA54E1 /* DoSomeThing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01C56A5328C740DA00AA54E1 /* DoSomeThing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		01473A732840FD0B00993D13 /* NotesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		01473A862841071D00993D13 /* NoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteViewController.swift; sourceTree = "<group>"; };
 		01473A88284108B800993D13 /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
+		01C56A5328C740DA00AA54E1 /* DoSomeThing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoSomeThing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				01473A5E2840FD0A00993D13 /* Info.plist */,
 				01473A862841071D00993D13 /* NoteViewController.swift */,
 				01473A88284108B800993D13 /* EntryViewController.swift */,
+				01C56A5328C740DA00AA54E1 /* DoSomeThing.swift */,
 			);
 			path = Notes;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				01473A872841071D00993D13 /* NoteViewController.swift in Sources */,
+				01C56A5428C740DA00AA54E1 /* DoSomeThing.swift in Sources */,
 				01473A89284108B800993D13 /* EntryViewController.swift in Sources */,
 				01473A552840FD0800993D13 /* ViewController.swift in Sources */,
 				01473A512840FD0800993D13 /* AppDelegate.swift in Sources */,

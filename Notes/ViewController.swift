@@ -22,7 +22,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         table.delegate = self
         table.dataSource = self
         title = ""
-        print("Hello World")
+        let some = DoSomeThing()
+        print(some.getSomThing(txt: "!!!"))
     }
     
     
@@ -76,6 +77,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         
         navigationController?.pushViewController(vc, animated: true)
     }
+    
+    
 
 
 }
