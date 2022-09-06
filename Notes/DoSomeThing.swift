@@ -11,6 +11,9 @@ import Foundation
 class DoSomeThing{
     
     func getSomThing(txt : String)->String{
-        return "Hello World\(txt)"
+        var txtNew = txt + " BY!!!"
+        return "Hello World\(txtNew)"
     }
+    
+    
 }
